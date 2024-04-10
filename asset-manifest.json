@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DanhBaDienThoai/static/css/main.9270a080.css",
+    "main.js": "/DanhBaDienThoai/static/js/main.5fcf0db7.js",
+    "static/js/453.8f8708ab.chunk.js": "/DanhBaDienThoai/static/js/453.8f8708ab.chunk.js",
+    "index.html": "/DanhBaDienThoai/index.html",
+    "main.9270a080.css.map": "/DanhBaDienThoai/static/css/main.9270a080.css.map",
+    "main.5fcf0db7.js.map": "/DanhBaDienThoai/static/js/main.5fcf0db7.js.map",
+    "453.8f8708ab.chunk.js.map": "/DanhBaDienThoai/static/js/453.8f8708ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9270a080.css",
+    "static/js/main.5fcf0db7.js"
+  ]
+}
